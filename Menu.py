@@ -3,7 +3,7 @@
 fercho = True
 comidas = ["1-Hamburgueza","2-Pizza","3-Tacos","4-Sushi","5-Pasta"]
 while fercho == True:
-    print("Esta es la lista de comidas: ",comidas)
+    print("Esta es la lista: ",comidas)
     print("Que comida desea?")
     
     
